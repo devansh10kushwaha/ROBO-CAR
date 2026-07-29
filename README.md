@@ -45,3 +45,4 @@ vedio link : https://youtube.com/shorts/_g-xL617RZE?si=t9as4PgI5IWBwADQ
 
 ![image alt](https://github.com/devansh10kushwaha/ROBO-CAR/blob/30a459ed442f02764be2f3b5df150f0b3023c797/robocar_img.jpeg)
 ![image alt](https://github.com/devansh10kushwaha/ROBO-CAR/blob/3fbe543d15a48f5a16cb4c996e7066a66bd184e0/robocar2.jpeg)
+![image alt](https://github.com/devansh10kushwaha/ROBO-CAR/blob/cc5311c0a409c6c86b954cebcce1c2deef76983e/circuit%20diagram.jpeg)
