@@ -1,6 +1,5 @@
-// ===============================
+
 // Line Follower Robot using Arduino
-// ===============================
 
 // IR Sensor Pins
 #define IR_LEFT  9
@@ -25,9 +24,8 @@
 #define ON_LINE 0
 #define OFF_LINE 1
 
-// ===============================
 // Setup Function
-// ===============================
+
 void setup() {
 
   // IR Sensors
@@ -52,9 +50,8 @@ void setup() {
   delay(2000);
 }
 
-// ===============================
 // Main Loop
-// ===============================
+
 void loop() {
 
   int leftSensor = digitalRead(IR_LEFT);
@@ -89,9 +86,8 @@ void loop() {
   }
 }
 
-// ===============================
 // Move Forward
-// ===============================
+
 void moveForward(int speed) {
 
   // Left Motor
@@ -105,9 +101,8 @@ void moveForward(int speed) {
   analogWrite(ENB, speed);
 }
 
-// ===============================
 // Turn Left
-// ===============================
+
 void turnLeft() {
 
   // Left Motor Forward
@@ -121,9 +116,8 @@ void turnLeft() {
   analogWrite(ENB, 0);
 }
 
-// ===============================
 // Turn Right
-// ===============================
+
 void turnRight() {
 
   // Left Motor Stop
@@ -137,9 +131,8 @@ void turnRight() {
   analogWrite(ENB, BASE_SPEED);
 }
 
-// ===============================
 // Stop Motors
-// ===============================
+
 void stopMotors() {
 
   digitalWrite(IN1, LOW);
@@ -151,9 +144,8 @@ void stopMotors() {
   analogWrite(ENB, 0);
 }
 
-// ===============================
 // Reverse Robot
-// ===============================
+
 void reverse() {
 
   // Left Motor Reverse
