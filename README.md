@@ -3,40 +3,40 @@ It is an Arduino-based robotic car,capable of autonomous line following, real-ti
 
 Features
 
- Autonomous path navigation
- Bluetooth-based remote control
- Real-time obstacle avoidance
- DC motor control using the L298N motor driver
- IR sensor-based line following
- Dual operating modes: Automatic and Manual
+ Autonomous path navigation,
+ Bluetooth-based remote control,
+ Real-time obstacle avoidance,
+ DC motor control using the L298N motor driver,
+ IR sensor-based line following,
+ Dual operating modes: Automatic and Manual and
  Arduino programming for embedded system control
  
 Hardware Components
 
-Arduino Uno
-L298N Motor Driver
-HC-05 Bluetooth Module
-IR Sensor Modules
-Ultrasonic Sensor (for obstacle detection, if used)
-DC Geared Motors
-Robot Chassis
+Arduino Uno,
+L298N Motor Driver,
+HC-05 Bluetooth Module,
+IR Sensor Modules,
+Ultrasonic Sensor (for obstacle detection, if used),
+DC Geared Motors,
+Robot Chassis and
 Battery Pack
 
 Technologies Used
 
-Arduino IDE
-Embedded C/C++
-Arduino Libraries
-Bluetooth Communication
-Sensor Interfacing
-PWM Motor Speed Control
+Arduino IDE,
+Embedded C/C++,
+Arduino Libraries,
+Bluetooth Communication,
+Sensor Interfacing,
+PWM Motor Speed Control and
 Learning Outcomes
 
 Through this project, I gained practical experience in:
 
-Robotics and automation
-Embedded systems programming
-Sensor integration and real-time decision-making
-Wireless robot control using Bluetooth
-Motor driver interfacing and PWM control
+Robotics and automation,
+Embedded systems programming,
+Sensor integration and real-time decision-making,
+Wireless robot control using Bluetooth,
+Motor driver interfacing and PWM control and
 Hardware debugging and system integration
