@@ -41,4 +41,6 @@ Wireless robot control using Bluetooth,
 Motor driver interfacing and PWM control and
 Hardware debugging and system integration
 
+vedio link : https://youtube.com/shorts/_g-xL617RZE?si=t9as4PgI5IWBwADQ
+
 ![image alt](https://github.com/devansh10kushwaha/ROBO-CAR/blob/30a459ed442f02764be2f3b5df150f0b3023c797/robocar_img.jpeg)
